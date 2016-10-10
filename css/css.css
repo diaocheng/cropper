@@ -55,7 +55,7 @@ pre {
     max-height: 340px;
     display: block;
     background-color: #fff;
-    background-image: url("/images/tool/bg.png");
+    background-image: url("images/tool/bg.png");
     background-size: 6px 6px;
     position: relative;
     overflow: hidden;
